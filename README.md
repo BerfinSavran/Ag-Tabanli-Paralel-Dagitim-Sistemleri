@@ -1,0 +1,1 @@
+# Ag-Tabanl-Paralel-Dagitim-Sistemleri
