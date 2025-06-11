@@ -1,5 +1,8 @@
 # Ag-Tabanli-Paralel-Dagitim-Sistemleri
 
+Kullandığım veritabanı AdventureWorks2019 
+indirdiğim link: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure
+
 PROJE 7: VERİTABANI YEDEKLEME VE OTOMASYON ÇALIŞMASI : https://www.youtube.com/watch?v=QU67gH0sRYw
 
 PROJE 3: VERİTABANI GÜVENLİĞİ VE ERİŞİM KONTROLÜ: https://www.youtube.com/watch?v=UIgtP8iFObU
