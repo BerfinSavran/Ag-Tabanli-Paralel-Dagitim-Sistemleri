@@ -7,3 +7,5 @@ PROJE 3: VERİTABANI GÜVENLİĞİ VE ERİŞİM KONTROLÜ: https://www.youtube.c
 PROJE 5: VERİ TEMİZLEME VE ETL SÜREÇLERİ TASARIMI: https://www.youtube.com/watch?v=4iixA6fnKMk
 
 PROJE 1: VERİTABANI PERFORMANS OTOMASYONU VE İZLEME: https://www.youtube.com/watch?v=OSviVB0oDJU
+
+PROJE 2: VERİTABANI YEDEKLEME VE FELAKETTEN KURTARMA PLANI: https://www.youtube.com/watch?v=V-u-8ZnGxVU
